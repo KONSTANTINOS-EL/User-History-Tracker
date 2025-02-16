@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "4051d3e2-6cf5-4a57-be65-c317e97e5ebc",
-          "name": "History Workout Tracker",
+          "name": "User Workout History Tracker: 1ed9ccf9-3873-438b-9",
           "slug": "4051d3e2-6cf5-4a57-be65-c317e97e5ebc",
           "isPublic": false,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-02-16T13:50:33.220Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-02-16T13:50:33.220Z",
+          "updatedAt": "2025-02-16T13:52:35.921Z",
           "editingVersion": {
             "id": "e1b6dc46-50ed-49ca-88a9-253bd30ba4c5",
             "name": "v1",
